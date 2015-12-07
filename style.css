@@ -1,0 +1,12 @@
+html, body {
+    margin: 0; padding: 0;
+    background-color: ghostwhite;
+}
+
+#screen {
+    display: block;
+    width: 800px;
+    height: 533px;
+    margin: 100px auto;
+    background-color: white;
+}
